@@ -20,4 +20,8 @@ class ApiError extends Error {
 }
 }
 
+<<<<<<< HEAD
 export default ApiError;
+=======
+export default ApiError;
+>>>>>>> e01ec568180c834198cff2b67aa9b0bb283c07c8
